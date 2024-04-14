@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1713085912785
+current_stage: Production
+description: ''
+last_updated_timestamp: 1713086012451
+name: Example
+run_id: aec93747d33148dc9d0266d6702207f7
+run_link: ''
+source: file:///home/randi_eka/mlops_u/Complete-MLOps-BootCamp/mlflow-demo-live/mlruns/0/aec93747d33148dc9d0266d6702207f7/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///home/randi_eka/mlops_u/Complete-MLOps-BootCamp/mlflow-demo-live/mlruns/0/aec93747d33148dc9d0266d6702207f7/artifacts/model
+user_id: null
+version: 1

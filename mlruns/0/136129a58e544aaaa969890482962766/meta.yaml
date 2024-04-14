@@ -1,0 +1,15 @@
+artifact_uri: file:///home/randi_eka/mlops_u/Complete-MLOps-BootCamp/mlflow-demo-live/mlruns/0/136129a58e544aaaa969890482962766/artifacts
+end_time: 1713085495045
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 136129a58e544aaaa969890482962766
+run_name: merciful-wasp-595
+run_uuid: 136129a58e544aaaa969890482962766
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713085493958
+status: 3
+tags: []
+user_id: randi_eka

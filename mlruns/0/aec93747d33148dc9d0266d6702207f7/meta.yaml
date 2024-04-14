@@ -1,0 +1,15 @@
+artifact_uri: file:///home/randi_eka/mlops_u/Complete-MLOps-BootCamp/mlflow-demo-live/mlruns/0/aec93747d33148dc9d0266d6702207f7/artifacts
+end_time: 1713085786545
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aec93747d33148dc9d0266d6702207f7
+run_name: able-hog-325
+run_uuid: aec93747d33148dc9d0266d6702207f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713085785484
+status: 3
+tags: []
+user_id: randi_eka
